@@ -1,7 +1,8 @@
+<div>
 <div align="center">
-
 # Your Name
-### Senior Full Stack Developer
+### Senior Full Stack Developer 
+</div>
   
 ## Professional Summay
 I'm a Full Stack Developer with 10+ years of experience building scalable web and mobile applications.
