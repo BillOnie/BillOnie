@@ -10,7 +10,6 @@ I'm a Full Stack Developer with 10+ years of experience building scalable web an
 
 ## 🚀 Recent Projects
 
-- [aiiro.ai](https://www.aiiro.ai/) – AI assistant platform
 - [cicada.io](https://www.cicada.io) – Creative task collaboration
 - [Sprouts Market](https://shop.sprouts.com/store/sprouts/storefront?tags=organic) – E-commerce store
 
