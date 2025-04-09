@@ -2,11 +2,11 @@
 
 ## Professional Summay
 
-I'm a Full Stack Developer with 10+ years of experience building scalable web and mobile applications.
+I'm a Full Stack Developer with 5+ years of experience building scalable web and mobile applications.
 
-- 🔭 Currently working on AI SaaS, e-commerce, and real-time data platforms
-- 💼 Tech stack: React, Next.js, Node.js, NestJS, MongoDB, Flutter, and more
-- 🌱 bring ideas to life, value trust above everything—your success is my responsibility, Passionate about clean code, system architecture, and solving real-world problems
+- 🔭 Currently working on AI SaaS, e-commerce, Blockchain & Web3, UX/UI Design & Product Design, Data Science & Big Data, Cybersecurity and real-time data platforms
+- 💼 Tech stack: ASP.net, Django, React, Next.js, Vue.js, Node.js, NestJS, MongoDB, Flutter, and more
+- 🌱 bring ideas to life, value trust above everything—your success is my responsibility, don’t just solve problems—I solve them creatively, Passionate about clean code, system architecture, and solving real-world problems
 
 ## 🚀 Recent Projects
 
