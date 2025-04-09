@@ -6,7 +6,7 @@ I'm a Full Stack Developer with 10+ years of experience building scalable web an
 
 - 🔭 Currently working on AI SaaS, e-commerce, and real-time data platforms
 - 💼 Tech stack: React, Next.js, Node.js, NestJS, MongoDB, Flutter, and more
-- 🌱 Passionate about clean code, system architecture, and solving real-world problems
+- 🌱 bring ideas to life, value trust above everything—your success is my responsibility, Passionate about clean code, system architecture, and solving real-world problems
 
 ## 🚀 Recent Projects
 
